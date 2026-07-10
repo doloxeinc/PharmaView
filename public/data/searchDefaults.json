@@ -1,0 +1,8 @@
+{
+  "defaultConditions": [
+    { "field": "Indication", "op": "=", "value": "Oncology" },
+    { "field": "Phase", "op": "=", "value": "III", "join": "AND" },
+    { "field": "Molecule Type", "op": "=", "value": "Monoclonal antibody", "join": "OR" }
+  ],
+  "blankCondition": { "field": "Country", "op": "=", "value": "United States" }
+}

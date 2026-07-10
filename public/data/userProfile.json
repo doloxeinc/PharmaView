@@ -1,0 +1,13 @@
+{
+  "name": "R. Sharma",
+  "initials": "RS",
+  "email": "r.sharma@apexbioconsulting.com",
+  "company": "Apex BioConsulting",
+  "title": "Competitive Intelligence",
+  "subscription": {
+    "status": "Active",
+    "plan": "Enterprise",
+    "startDate": "Jan 15, 2025",
+    "renewalDate": "Jan 14, 2027"
+  }
+}

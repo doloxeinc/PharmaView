@@ -1,0 +1,60 @@
+{
+  "Drug Name": ["Zomarlimab", "Trevocitinib", "Larenavir", "Ficrastenib", "Belumizumab", "Doxaglutide"],
+  "Company Name": [
+    "Meridian Biotherapeutics",
+    "Solara Pharma",
+    "NovaGene Sciences",
+    "Cascadia Therapeutics",
+    "Ondine Biosciences",
+    "Arcadia Metabolics"
+  ],
+  "Company HQ": ["United States", "Switzerland", "United Kingdom", "Canada", "Denmark"],
+  "HQ": ["United States", "Switzerland", "United Kingdom", "Canada", "Denmark"],
+  "Country": [
+    "United States",
+    "Germany",
+    "United Kingdom",
+    "France",
+    "Japan",
+    "Canada",
+    "Denmark",
+    "India",
+    "Malaysia",
+    "Australia"
+  ],
+  "Reference Country": ["Germany", "France", "United Kingdom", "Canada", "Australia"],
+  "Molecule Nature": ["Small molecule", "Monoclonal antibody", "Peptide", "Gene therapy", "Cell therapy"],
+  "Drug Type": ["Small molecule", "Biologic", "Peptide", "Radioligand"],
+  "Technology Type": ["Recombinant DNA", "mRNA", "Gene editing", "Antibody-drug conjugate"],
+  "Vector Type": ["AAV", "Lentivirus", "Adenovirus", "Non-viral"],
+  "Indication": ["Oncology", "Immunology", "Infectious Disease", "Metabolic Disease", "Respiratory", "Rare Disease"],
+  "ROA": ["Oral", "Intravenous", "Subcutaneous", "Inhalation", "Topical"],
+  "Dosage Form": ["Tablet", "Capsule", "Injection", "Pen", "Infusion"],
+  "Application Type": ["NDA", "BLA", "ANDA", "MAA"],
+  "Trial Status": ["Recruiting", "Active", "Completed", "Terminated", "Withdrawn", "Not yet recruiting"],
+  "Biomarker Type": ["Genomic", "Protein", "Imaging", "Metabolic"],
+  "Business Type": ["Public", "Private", "Subsidiary"],
+  "Highest Drug Stage": ["Discovery", "Preclinical", "Phase I", "Phase II", "Phase III", "Marketed"],
+  "Department": ["R&D", "Commercial", "Regulatory", "Finance"],
+  "Designation": ["Director", "VP", "C-Suite", "Manager"],
+  "Reimbursement (Y/N)": ["Yes", "No"],
+  "Package": ["Vial", "Pen", "Tablet pack", "Infusion bag"],
+  "Disease": [
+    "Oncology",
+    "Immunology",
+    "Infectious Disease",
+    "Metabolic Disease",
+    "Respiratory",
+    "Rare Disease",
+    "Cardiovascular",
+    "Neurology"
+  ],
+  "Industry Trend": [
+    "GLP-1 & Metabolic Therapies",
+    "Biosimilar Competition",
+    "Cell & Gene Therapy Access",
+    "AI in Drug Discovery",
+    "Value-Based Pricing",
+    "Patent Cliff Wave 2026–2028"
+  ]
+}

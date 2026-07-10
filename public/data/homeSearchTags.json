@@ -1,0 +1,6 @@
+[
+  { "label": "Patent expiries in 2027", "moduleKey": "drugs" },
+  { "label": "Phase III oncology trials", "moduleKey": "trials" },
+  { "label": "US vs EU5 price ratio", "moduleKey": "irp" },
+  { "label": "Top pipeline by NPV", "moduleKey": "companies" }
+]

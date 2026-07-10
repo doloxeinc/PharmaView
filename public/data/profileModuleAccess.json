@@ -1,0 +1,8 @@
+[
+  { "key": "drugs", "subscribed": true, "api": true },
+  { "key": "trials", "subscribed": true, "api": true },
+  { "key": "companies", "subscribed": true, "api": false },
+  { "key": "drugprice", "subscribed": true, "api": true },
+  { "key": "cot", "subscribed": false, "api": false },
+  { "key": "irp", "subscribed": true, "api": false }
+]

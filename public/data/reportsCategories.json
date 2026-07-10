@@ -1,0 +1,43 @@
+{
+  "reportsBaseLabels": {
+    "diseaseView": "Disease View",
+    "countryView": "Country View",
+    "trendView": "Industry Trend View"
+  },
+  "reportsCategories": {
+    "disease": {
+      "label": "Disease",
+      "viewKey": "diseaseView",
+      "desc": "Explore the pipeline, trials, and pricing landscape for a specific disease area.",
+      "items": [
+        "Oncology",
+        "Immunology",
+        "Infectious Disease",
+        "Metabolic Disease",
+        "Respiratory",
+        "Rare Disease",
+        "Cardiovascular",
+        "Neurology"
+      ]
+    },
+    "country": {
+      "label": "Country",
+      "viewKey": "countryView",
+      "desc": "Explore regulatory, pricing, and market data for a specific country.",
+      "items": ["United States", "Germany", "United Kingdom", "Japan", "France", "Canada", "India", "Australia"]
+    },
+    "trend": {
+      "label": "Industry Trend",
+      "viewKey": "trendView",
+      "desc": "Explore emerging themes shaping biopharma strategy.",
+      "items": [
+        "GLP-1 & Metabolic Therapies",
+        "Biosimilar Competition",
+        "Cell & Gene Therapy Access",
+        "AI in Drug Discovery",
+        "Value-Based Pricing",
+        "Patent Cliff Wave 2026–2028"
+      ]
+    }
+  }
+}
